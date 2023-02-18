@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbc00891.css",
-    "main.js": "/static/js/main.ecf1e9be.js",
-    "index.html": "/index.html"
+    "main.css": "/shibilyts/mshibilyPortfolio.github.io/static/css/main.fbc00891.css",
+    "main.js": "/shibilyts/mshibilyPortfolio.github.io/static/js/main.f7ad4b84.js",
+    "index.html": "/shibilyts/mshibilyPortfolio.github.io/index.html"
   },
   "entrypoints": [
     "static/css/main.fbc00891.css",
-    "static/js/main.ecf1e9be.js"
+    "static/js/main.f7ad4b84.js"
   ]
 }

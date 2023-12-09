@@ -22,8 +22,13 @@ const dataabout = {
 const worktimeline = [
     {
         jobtitle: "Senior Software Engineer",
-        where: "Innow8 Apps, Mohali",
+        where: "Glidewell Dental",
         date: "Jul 2019 - Present",
+    },
+    {
+        jobtitle: "Senior Software Engineer",
+        where: "Innow8 Apps, Mohali",
+        date: "Jul 2019 - Jun 2023",
     },
     {
         jobtitle: "Software Engineer",
@@ -66,6 +71,11 @@ const dataportfolio = [{
         img: "https://play-lh.googleusercontent.com/D-cQLcRAN4oZbyrocb7BDsQBJd3UoOx3qTlyMwqFNxEmHbbMsTXRm32-waVVXC4EmGQU=w480-h960-rw",
         desctiption: "Foresite Construction Management System. Role: Lead Mobile App Development . Duration: 1+ year (current project)",
         link: "https://play.google.com/store/apps/details?id=com.app.foresite&hl=en_IN&gl=US",
+    },
+    {
+        img: "https://play-lh.googleusercontent.com/Uh9f5VzzO8h0HM6tR7u8ABfCXBwqVE-f9h1qS7aZOPWPjZmxxz2Z3xsQ559BdW4BaPKY=w240-h480-rw",
+        desctiption: "Hush Lil Baby - Role: Individual Project(Personal Project). Duration: 2 days",
+        link: "https://play.google.com/store/apps/details?id=com.app.hushlilbaby",
     },
     {
         img: "https://play-lh.googleusercontent.com/scs4qe5t56eYd3TxmVOmxKHImsmKntr1XwOe5b2dbT66gdo7UimimSfCzT2UKVgoaqg=w480-h960-rw",

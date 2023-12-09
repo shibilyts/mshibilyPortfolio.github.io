@@ -16,7 +16,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "a bit about my self",
     aboutme: "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Mobile Application Development, React Native,C++, Java, NativeScript, and Product Innovation. Strong engineering professional with a Bachelor of Technology - BTech focused in Computer Science and Engineering from NSS COLLEGE OF ENGINEERING, AKATHETHARA.",
 };
 const worktimeline = [
